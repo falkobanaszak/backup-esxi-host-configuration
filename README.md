@@ -24,3 +24,4 @@ You can check your path where you wanted to place your backups if the ESXi host 
 
 ![Check for the files](https://github.com/falkobanaszak/backup-esxi-host-configuration/blob/master/check_for_files.png)
 
+You can get the script here: [Backup ESXi Host Configuration](https://github.com/falkobanaszak/backup-esxi-host-configuration/blob/master/Backup_ESXi_Host_Configuration.ps1)
