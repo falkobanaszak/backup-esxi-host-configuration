@@ -18,7 +18,7 @@ The script shows a progress bar while backing up the ESXi host.
 
 After the backup is successful, your screen should look like this:
 
-![Finished Backup](https://github.com/falkobanaszak/backup-esxi-host-configuration/blob/master/finished_esx_backup.png)
+![Finished Backup](https://github.com/falkobanaszak/backup-esxi-host-configuration/blob/master/finished_backup.png)
 
 You can check your path where you wanted to place your backups if the ESXi host backup bundles appear:
 
