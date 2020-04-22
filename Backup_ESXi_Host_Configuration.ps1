@@ -36,6 +36,7 @@ $Task = "Please wait, backing up..."
 
 # Load the PowerCLI SnapIn
 Add-PSSnapin VMware.VimAutomation.Core -ea "SilentlyContinue"
+Set-PowerCLIConfiguration -InvalidCertificateAction Ignore -Confirm:$false | Out-Null
 
 # Get the vCenter Server Name to connect to
 $vCenterServer = read-host "Enter vCenter Server host name (DNS with FQDN or IP address)"
